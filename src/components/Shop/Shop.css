@@ -13,3 +13,42 @@
 .order-summery {
     background-color: rgba(255, 153, 0, 0.3);
 }
+
+.summery-title {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 400;
+    margin: 1.75rem auto 0;
+}
+
+.summery-details {
+    margin: 3.125rem 1.438rem;
+}
+
+.grand-total {
+    font-weight: 500;
+    font-size: 1.313rem;
+}
+
+.order-btns {
+    padding-inline: auto;
+    background-color: aliceblue;
+}
+
+.order-summery button {
+    width: 87%;
+    border: 0;
+    display: block;
+    color: white;
+    margin: .5rem auto 1rem;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+.clear-btn {
+    background-color: #FF3030;
+}
+
+.review-btn {
+    background-color: #FF9900;
+}

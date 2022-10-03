@@ -61,6 +61,13 @@
     border-radius: 0 0 .5rem .5rem;
     font-weight: 600;
     font-size: medium;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-text {
+    margin-right: 0.237rem;
 }
 
 .cart-btn:hover {
